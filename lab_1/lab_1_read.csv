@@ -1,0 +1,51 @@
+4,Add to cart,2022-01-04,12:30:00,SUCCESS
+10,Product search by name,2022-01-10,11:15:00,SUCCESS
+11,Product search by category,2022-01-11,10:45:00,SUCCESS
+13,Filter by price range,2022-01-13,14:45:00,SUCCESS
+15,Sort by price,2022-01-15,12:00:00,SUCCESS
+1,Login page,2022-01-01,10:00:00,SUCCESS
+33,Product Variants Test,2022-04-24,00:03:06,SUCCESS
+
+20,Order confirmation page,2022-01-20,16:15:00,SUCCESS
+6,Payment gateway,2022-01-06,11:45:00,SUCCESS
+17,Product details page,2022-01-17,11:30:00,SUCCESS
+7,User profile page,2022-01-07,15:00:00,FAIL
+34,Add to Cart from Wishlist Test,2022-01-25,00:01:32,FAIL
+35,Remove from Cart Test,2022-01-26,00:02:14,SUCCESS
+8,Product reviews,2022-01-08,08:30:00,SUCCESS
+45,Product reviews,2022-01-08,08:30:00,SUCCESS
+46,Add to wishlist,2022-01-18,10:15:00,FAIL
+47,Registration page,2022-01-02,11:00:00,SUCCESS
+27,Product Details Test,2022-01-18,00:02:35,SUCCESS
+28,Product Images Test,2022-03-19,00:02:50,SUCCESS
+48,Product search by brand,2022-01-12,16:30:00,FAIL
+49,Sort by popularity,2022-01-16,13:30:00,SUCCESS
+18,Add to wishlist,2022-01-18,10:15:00,FAIL
+2,Registration page,2022-01-02,11:00:00,SUCCESS
+12,Product search by brand,2022-01-12,16:30:00,FAIL
+16,Sort by popularity,2022-01-16,13:30:00,SUCCESS
+9,Homepage layout,2022-01-09,13:00:00,SUCCESS
+19,Remove from cart,2022-01-19,15:45:00,SUCCESS
+14,Filter by product type,2022-01-14,09:00:00,SUCCESS
+3,Search functionality,2022-01-03,09:30:00,FAIL
+5,Checkout process,2022-01-05,14:00:00,SUCCESS
+30,Product Reviews Test,2022-01-21,00:03:12,SUCCESS
+31,Product Ratings Test,2022-01-22,00:01:57,FAIL
+42,Payment gateway,2022-01-06,11:45:00,SUCCESS
+24,Remove from Wishlist Test,2022-01-15,00:01:39,SUCCESS
+25,Compare Products Test,2022-01-16,00:03:12,FAIL
+26,Product Availability Test,2022-01-17,00:01:59,SUCCESS
+29,Product Videos Test,2022-01-20,00:02:08,SUCCESS
+21,Search Filters Test,2022-01-12,00:02:17,FAIL
+22,Sort Functionality Test,2022-05-13,00:01:47,SUCCESS
+23,Add to Wishlist Test,2022-01-14,00:02:23,SUCCESS
+41,Login Test,2022-01-01,00:01:23,SUCCESS
+36,Edit Cart Test,2022-08-27,00:03:20,FAIL
+37,Checkout with Guest Account Test,2022-01-28,00:01:53,SUCCESS
+38,Checkout with Registered Account Test,2022-01-29,00:03:05,SUCCESS
+39,Checkout with PayPal Test,2022-01-30,00:01:47,FAIL
+40,Checkout with Credit Card Test,2022-01-31,00:02:30,SUCCESS
+32,Product Descriptions Test,2022-01-23,00:02:23,SUCCESS
+43,Product details page,2022-01-17,11:30:00,SUCCESS
+44,User profile page,2022-01-07,15:00:00,FAIL
+50,Homepage layout,2022-01-09,13:00:00,SUCCESS
